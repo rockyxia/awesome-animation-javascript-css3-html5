@@ -55,6 +55,7 @@
 
 - [three.js ★48K+](https://github.com/mrdoob/three.js) - JavaScript 3D library
 - [parallax.js](https://github.com/pixelcog/parallax.js) - JavaScript 视觉差特效引擎插件
+- [Vue-SuperSlide](https://github.com/rockyxia/vue-superslide) - SuperSlide component for Vue
 
 [↑ 返回目录 ↑](#目录)
 
